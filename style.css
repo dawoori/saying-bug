@@ -40,3 +40,20 @@ body {
     font-size: 30pt;
 
 }
+
+@media (max-width: 768px) {
+    .text {
+        margin-left: 5%;
+        margin-right: 5%;
+    }
+    
+    #content {
+        margin-bottom: 10%;
+    
+        font-size: 30pt;
+    }
+    
+    #author {
+        font-size: 20pt;
+    }
+}
