@@ -157,7 +157,7 @@ const sentenses = [
 ]
 
 const date = new Date()
-const day = date.getDay() - 1
+const day = date.getDate() - 1
 
 const text = sentenses[day]
 
