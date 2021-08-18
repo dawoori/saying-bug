@@ -85,7 +85,7 @@ const sentenses = [
         "bg": "https://images.unsplash.com/photo-1456694441711-af0ab2d64c96?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1500&q=80"
     },
     {
-        "content": "어두운 길을 걷가가 <br> 빛나는 별 하나 없다고 <br> 절망하지 말아라 <br> 가장 빛나는 별은 아직 <br> 도달하지 않았다",
+        "content": "어두운 길을 걷다가 <br> 빛나는 별 하나 없다고 <br> 절망하지 말아라 <br> 가장 빛나는 별은 아직 <br> 도달하지 않았다",
         "author": "박노해, 별은 너에게로",
         "bg": "https://images.unsplash.com/photo-1488866022504-f2584929ca5f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1486&q=80"
     },
@@ -97,27 +97,27 @@ const sentenses = [
     {
         "content": "슬픔이 그대의 삶으로 밀려와 마음을 흔들고 소중한 것을 쓸어가 버릴 때면 그대 가슴에 대고 말하라 이것 또한 지나가리라",
         "author": "랜터 윌슨 스미스",
-        "bg": ""
+        "bg": "https://images.unsplash.com/photo-1516472151647-6900f65d8975?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1268&q=80"
     },
     {
         "content": "희망은 어둠 속에서 시작된다. 일어나 옳은 일을 하려 할 때, 고집스러운 희망이 시작된다. 새벽은 올 것디아. 기다리고 보고 일하라. 포기하지 말라.",
         "author": "앤 라모드",
-        "bg": ""
+        "bg": "https://images.unsplash.com/photo-1521106581851-da5b6457f674?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1353&q=80"
     },
     {
         "content": "성공은 매일 반복한 작은 노력의 합이다.",
         "author": "로버트 콜리어",
-        "bg": ""
+        "bg": "https://images.unsplash.com/photo-1500468756762-a401b6f17b46?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1268&q=80"
     },
     {
         "content": "생각하는대로 살지 않으면, 사는대로 생각하게 된다.",
         "author": "",
-        "bg": ""
+        "bg": "https://images.unsplash.com/photo-1601857353438-47379a424cbe?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
     },
     {
         "content": "무의식을 의식화 하지 않으면 무의식이 우리 삶의 방향을 결정하게 되는데, 사람들은 이것을 두고 운명이라 부른다.",
         "author": "칼 융",
-        "bg": ""
+        "bg": "https://images.unsplash.com/photo-1543470373-e055b73a8f29?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
     },
     {
         "content": "나는 해야 한다. 그러므로 나는 할 수 있다.",
@@ -127,7 +127,7 @@ const sentenses = [
     {
         "content": "변명 중에서도 가장 어리석고 못난 변명은 \"시간이 없어서\" 라는 변명이다.",
         "author": "에디슨",
-        "bg": ""
+        "bg": "https://images.unsplash.com/photo-1529310399831-ed472b81d589?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1268&q=80"
     },
     {
         "content": "중요한 것은 무엇이 주어졌느냐가 아니라 주어진 것을 어떻게 활용하느냐 이다",

@@ -4,19 +4,21 @@
 @import url('https://fonts.googleapis.com/css2?family=Do+Hyeon&display=swap');
 
 body {
+    height: 100vh;
     margin: 0 0 0 0;
 }
 
 .bg {
-    height: 100vh;
+    height: 100%;
     
     /* background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('img/passion.jpg') no-repeat center; */
-    -webkit-background-size: cover;
+    /* -webkit-background-size: cover;
     -moz-background-size: cover;
-    -o-background-size: cover;
+    -o-background-size: cover; */
     background-size: cover;
 
     display: flex;
+    /* flex-direction: column; */
 }
 
 .text {
