@@ -95,7 +95,7 @@ const sentenses = [
         "bg": "https://images.unsplash.com/photo-1619681202584-e5af6673aefe?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1534&q=80"
     },
     {
-        "content": "슬픔이 그대의 삶으로 밀려와 마음을 흔들고 소중한 것을 쓸어가 버릴 때면 그대 가슴에 대고 말하라 이것 또한 지나가리라",
+        "content": "슬픔이 그대의 삶으로 밀려와 마음을 흔들고 소중한 것을 쓸어가 버릴 때면 그대 가슴에 대고 말하라 <br><br> 이것 또한 지나가리라",
         "author": "랜터 윌슨 스미스",
         "bg": "https://images.unsplash.com/photo-1516472151647-6900f65d8975?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1268&q=80"
     },
@@ -122,7 +122,7 @@ const sentenses = [
     {
         "content": "나는 해야 한다. 그러므로 나는 할 수 있다.",
         "author": "칸트",
-        "bg": ""
+        "bg": "https://images.unsplash.com/photo-1574410206732-0000dbcb116d?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1655&q=80"
     },
     {
         "content": "변명 중에서도 가장 어리석고 못난 변명은 \"시간이 없어서\" 라는 변명이다.",
@@ -132,27 +132,27 @@ const sentenses = [
     {
         "content": "중요한 것은 무엇이 주어졌느냐가 아니라 주어진 것을 어떻게 활용하느냐 이다",
         "author": "미움받을 용기",
-        "bg": ""
+        "bg": "https://images.unsplash.com/photo-1626433335451-55c2a84adb95?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1502&q=80"
     },
     {
         "content": "가장 강렬한 갈등이 해결되면 쉽게 방해받지 않는 안정감과 침착함을 가지게 된다. 가치 있고 지속적인 결과를 내기 위해서는 치열한 갈등이 필요하다.",
         "author": "칼 융",
-        "bg": ""
+        "bg": "https://images.unsplash.com/photo-1511376979163-f804dff7ad7b?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1534&q=80"
     },
     {
         "content": "우리는 불확실성 속에서 살아가는 법을 배워야 한다.",
         "author": "게르드 기헤렌저",
-        "bg": ""
+        "bg": "https://images.unsplash.com/photo-1570303345338-e1f0eddf4946?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=965&q=80"
     },
     {
         "content": "기다린다는 것이 때로 가슴을 무너트리는 절망이지만 돌아올 사람이라면 잠깐씩 사라지는 일도 아름다우리라",
         "author": "성백원, 기다림",
-        "bg": ""
+        "bg": "https://images.unsplash.com/photo-1542046241360-7534ad7b87fc?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1834&q=80"
     },
     {
         "content": "곤경에 빠지는 건 몰라서가 아니다. 확힐히 안다는 착각 때문이다.",
         "author": "영화, 빅쇼트",
-        "bg": ""
+        "bg": "https://images.unsplash.com/photo-1445810694374-0a94739e4a03?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1632&q=80"
     }
 ]
 
