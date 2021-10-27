@@ -181,3 +181,10 @@ var style = new Vue({
         bg: text.bg
     }
 })
+
+var meta = new Vue({
+    el: '#og_image',
+    data: {
+        bg: text.bg
+    }
+})
