@@ -153,6 +153,16 @@ const sentenses = [
         "content": "곤경에 빠지는 건 몰라서가 아니다. 확힐히 안다는 착각 때문이다.",
         "author": "영화, 빅쇼트",
         "bg": "https://images.unsplash.com/photo-1445810694374-0a94739e4a03?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1632&q=80"
+    },
+    {
+        "content": "인생에서 가장 슬픈 일은 그 마지막에 도달했을 때 후회하며 돌아보는 것이다 그때 가서 당신이 더 많은 것을 하고, 더 많은 것을 갖고, 더 나은 사람이 될 수 있었다는 것을 알아봐야 소용없다.",
+        "author": "로빈 샤르마",
+        "bg": "https://images.unsplash.com/photo-1445810694374-0a94739e4a03?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1632&q=80"
+    },
+    {
+        "content": "나를 죽이지 않는 역경은 나를 키운다",
+        "author": "니체",
+        "bg": "https://images.unsplash.com/photo-1445810694374-0a94739e4a03?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1632&q=80"
     }
 ]
 
